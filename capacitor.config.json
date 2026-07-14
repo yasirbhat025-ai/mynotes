@@ -1,0 +1,8 @@
+{
+  "appId": "com.mednotebook.app",
+  "appName": "MedNotebook",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
